@@ -3,6 +3,7 @@ import Head from 'next/head';
 export default function Metatags({
   title = 'Fireblog',
   description = 'Next.js + Firebase = 🔥',
+  image = 'google.png',
 }) {
   return (
     <Head>
