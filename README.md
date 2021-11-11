@@ -14,6 +14,19 @@ On this app, you can :
 - Heart or unheart other people's posts
 - Make your posts public or private
 
+## Screenshots
+Home page
+<img width="1440" alt="Capture d’écran 2021-11-11 à 15 26 22" src="https://user-images.githubusercontent.com/84329916/141315067-c30216b4-1c3d-4634-9b46-acb735fc4262.png">
+
+Post page
+<img width="1440" alt="Capture d’écran 2021-11-11 à 15 28 02" src="https://user-images.githubusercontent.com/84329916/141315139-4ce589b3-0ce2-4a3f-981d-276add488706.png">
+
+Manage & Create posts page
+<img width="1440" alt="Capture d’écran 2021-11-11 à 15 28 14" src="https://user-images.githubusercontent.com/84329916/141315185-cb0026c5-89d1-4aa3-8ef2-2935c3eb476e.png">
+
+Markdown Editor page
+<img width="1440" alt="Capture d’écran 2021-11-11 à 15 28 35" src="https://user-images.githubusercontent.com/84329916/141315250-1ad66afb-d997-45e4-939d-e3904398fbba.png">
+
 
 ## Run the app
 
